@@ -4,10 +4,6 @@ body{
     background-color: #000;
 }
 
-h1{
-    color: #fff;
-}
-
 .sidebar{
     position: fixed;
     top: 0;
@@ -33,14 +29,6 @@ h1{
 .sidebar__navigation .logo img{
     width: 80px;
 }
-
-/*.sidebar__navigation img {
-    background: blue;
-    display: flex;
-    border-radius: 8px;
-    padding: 16px 0 0 16px;
-}
-*/
 
 .sidebar nav ul {
     margin-top: 20px;
